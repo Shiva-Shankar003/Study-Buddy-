@@ -1,0 +1,25 @@
+python-dotenv
+pymupdf
+opencv-python-headless
+numpy
+pillow
+easyocr
+pytesseract
+youtube-transcript-api
+langchain-text-splitters
+sentence-transformers
+qdrant-client
+rank-bm25
+langgraph
+google-genai
+groq
+ollama
+diskcache
+streamlit
+fastapi
+uvicorn
+pandas
+jiwer
+datasets
+accelerate
+# optional: faster-whisper, yt-dlp, ragas, langchain-google-genai, langchain-huggingface
